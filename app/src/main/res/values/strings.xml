@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Search Restaurant</string>
+    <string name="search_hint">Search Restaurants</string>
+    <string name="search_res_hint">Search by restaurant name, cuisine types or menu item</string>
+    <string name="search">Search</string>
+    <string name="no_record_found">No matching restaurant found!</string>
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="amount">\u20B9 %s</string>
+    <string name="star">\u2605 %s</string>
+    <string name="space">\u0020</string>
+    <string name="bullet">\u25CF</string>
+</resources>

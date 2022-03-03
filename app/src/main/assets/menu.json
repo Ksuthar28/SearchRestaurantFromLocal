@@ -1,0 +1,235 @@
+{
+   "menus":[
+      {
+         "restaurantId":1,
+         "categories":[
+            {
+               "id":"26576",
+               "name":"Appeteasers",
+               "menu-items":[
+                  {
+                     "id":"94298",
+                     "name":"3 Chicken Wings",
+                     "description":"Tender, Spicy and Juicy. Original or Peri-Crusted",
+                     "price":"250.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768183/images/menus/x4cspjvzqn2qk76sjhiw.jpg"
+                     ]
+                  },
+                  {
+                     "id":"94301",
+                     "name":"Chicken Livers and Portuguese Roll",
+                     "description":"Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll To Soak Up The Sauce",
+                     "price":"250.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768183/images/menus/x4cspjvzqn2qk76sjhiw.jpg"
+                     ]
+                  }
+               ]
+            },
+            {
+               "id":"26588",
+               "name":"Peri-peri chicken",
+               "menu-items":[
+                  {
+                     "id":"94349",
+                     "name":"1/4 Chicken",
+                     "description":"Quarter Chicken Marinated with PERi-PERi Sauce and Grilled",
+                     "price":"385.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768183/images/menus/x4cspjvzqn2qk76sjhiw.jpg"
+                     ]
+                  },
+                  {
+                     "id":"94352",
+                     "name":"1/2 Chicken",
+                     "description":"Half Chicken Marinated with PERi-PERi Sauce and Grilled",
+                     "price":"685.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768183/images/menus/x4cspjvzqn2qk76sjhiw.jpg"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "restaurantId":2,
+         "categories":[
+            {
+               "id":"1234",
+               "name":"Fast Food",
+               "menu-items":[
+                  {
+                     "id":"9999",
+                     "name":"Chicken Rise",
+                     "description":"Tender, Spicy and Juicy. Original or Peri-Crusted",
+                     "price":"150.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768183/images/menus/x4cspjvzqn2qk76sjhiw.jpg"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "restaurantId":3,
+         "categories":[
+            {
+               "id":"1231",
+               "name":"Main Course",
+               "menu-items":[
+                  {
+                     "id":"9998",
+                     "name":"Pounded yam",
+                     "description":"Yams that have been crushed or stirred to a creamy, dough - like consistency.Pounded yams are considered a fufu(a kind of starchy side dish) usually served with a stew or efo.",
+                     "price":"180.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768183/images/menus/x4cspjvzqn2qk76sjhiw.jpg"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "restaurantId":4,
+         "categories":[
+            {
+               "id":"1232",
+               "name":"Main Course",
+               "menu-items":[
+                  {
+                     "id":"9997",
+                     "name":"Jollof rice",
+                     "description":"Rice made with tomatoes, onions, scotch bonnets, and chili peppers. There are endless variations on this recipe, but those five ingredients are usual constants.",
+                     "price":"180.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "restaurantId":5,
+         "categories":[
+            {
+               "id":"1233",
+               "name":"Main Course",
+               "menu-items":[
+                  {
+                     "id":"9996",
+                     "name":"Jollof rice",
+                     "description":"Rice made with tomatoes, onions, scotch bonnets, and chili peppers. There are endless variations on this recipe, but those five ingredients are usual constants.",
+                     "price":"180.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "restaurantId":6,
+         "categories":[
+            {
+               "id":"1235",
+               "name":"Main Course",
+               "menu-items":[
+                  {
+                     "id":"9995",
+                     "name":"Pepper Soup",
+                     "description":"Light and spicy soup traditionally made with goat meat, but often with fish or other meat, as well as herbs and Nigerian spices.",
+                     "price":"280.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "restaurantId":7,
+         "categories":[
+            {
+               "id":"1236",
+               "name":"Main Course",
+               "menu-items":[
+                  {
+                     "id":"9994",
+                     "name":"Efo Riro",
+                     "description":"A rich spinach stew usually made with spinach, scotch bonnets, and red bell peppers.",
+                     "price":"250.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "restaurantId":8,
+         "categories":[
+            {
+               "id":"1237",
+               "name":"Main Course",
+               "menu-items":[
+                  {
+                     "id":"9993",
+                     "name":"Egusi Soup",
+                     "description":"A stew usually made with crayfish or other meat and thickened with ground melon seeds(egusi).",
+                     "price":"100.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768183/images/menus/xnurgo60mme1ewupfbin.jpg"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "restaurantId":9,
+         "categories":[
+            {
+               "id":"1238",
+               "name":"Main Course",
+               "menu-items":[
+                  {
+                     "id":"9992",
+                     "name":"Akara",
+                     "description":"Fried bean cakes.Usually served as a breakfast food or snack and made with black eyed peas, these fritters are crunchy, spicy, and perfect alone or with a dipping sauce.",
+                     "price":"380.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768183/images/menus/xnurgo60mme1ewupfbin.jpg"
+                     ]
+                  },
+                  {
+                     "id":"9991",
+                     "name":"Dodo",
+                     "description":"Deep fried plantain slices.",
+                     "price":"320.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768183/images/menus/x4cspjvzqn2qk76sjhiw.jpg"
+                     ]
+                  },
+                  {
+                     "id":"9990",
+                     "name":"Puff puff",
+                     "description":"Deep fried dough, served plain or with powdered sugar.",
+                     "price":"300.00",
+                     "images":[
+                        "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg"
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
